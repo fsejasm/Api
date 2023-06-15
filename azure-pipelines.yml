@@ -12,4 +12,4 @@ steps:
     script: |
         postman login --with-api-key $POSTMAN_API_KEY
         # Run your collection using Postman CLI
-        postman collection run "27224756-7a17d3fd-3dd1-4c91-b8ad-812f018730ea"
+        postman collection run "27224756-6d9037f7-4a05-4f8b-acd9-1a8197a835d7"
