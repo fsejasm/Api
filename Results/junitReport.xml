@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Swagger Petstore Javier" tests="20" time="6.249">
+  <testsuite name="Add a new pet to the store" id="e2d67b44-e7e5-4f82-8987-b270bf728729" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.950"/>
+  <testsuite name="Update an existing pet" id="f42c00d8-ab3a-4bcb-ad7a-6cf4e6b1e397" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.280"/>
+  <testsuite name="Finds Pets by status" id="4521d6ef-61c8-45c5-a7ec-3f0e7656d3ea" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.283"/>
+  <testsuite name="Finds Pets by tags" id="8c7cfbcb-1a36-416a-a80c-6fc04571a202" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.279"/>
+  <testsuite name="Find pet by ID" id="1b05ea09-8f6c-4af9-af11-6dffc2bb7ed7" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.281"/>
+  <testsuite name="Updates a pet in the store with form data" id="b5f4d9a8-1cb7-4d7f-bde2-36371d959762" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.275"/>
+  <testsuite name="Deletes a pet" id="567e6e38-19ee-46ab-b4be-c8c93f85fb41" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.281"/>
+  <testsuite name="uploads an image" id="a449c95d-2ec3-4ba4-96eb-3c3d033275dc" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.277"/>
+  <testsuite name="Returns pet inventories by status" id="0e6366df-27f8-4bf6-8a7b-2b49e613df22" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.279"/>
+  <testsuite name="Place an order for a pet" id="faa05eca-aa41-4f3f-8e24-52aed42b420b" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.278"/>
+  <testsuite name="Find purchase order by ID" id="0420552c-e672-43f0-b901-01e6991c868a" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.280"/>
+  <testsuite name="Delete purchase order by ID" id="fa8c04a5-556e-4e4a-b0a6-db28ed4c081b" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.279"/>
+  <testsuite name="Create user" id="cf801efa-255e-4af8-85e7-24d8ee7d2fa0" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.274"/>
+  <testsuite name="Creates list of users with given input array" id="6825aa7a-2d77-4e36-aa4e-89108dad8b3a" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.277"/>
+  <testsuite name="Creates list of users with given input array" id="b5bc9b80-dfb1-4971-9065-f2a3c7ad3894" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.284"/>
+  <testsuite name="Logs user into the system" id="fa576076-81f2-4459-847e-ef3ad20a836c" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.275"/>
+  <testsuite name="Logs out current logged in user session" id="26e41553-0918-47a6-90e6-e42858f13068" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.285"/>
+  <testsuite name="Get user by user name" id="bfdf9665-4889-458b-8e97-0fb1f5b0580e" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.281"/>
+  <testsuite name="Updated user" id="3f2ef1f4-941c-486f-9c31-388fc2d038c9" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.274"/>
+  <testsuite name="Delete user" id="3251a5af-c6f3-48fa-9f38-c72e281499c2" timestamp="2023-06-16T15:35:51.117Z" tests="0" failures="0" errors="0" time="0.277"/>
+</testsuites>
